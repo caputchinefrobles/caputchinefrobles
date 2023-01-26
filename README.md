@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...![image](https://user-images.githubusercontent.com/8964036/214888491-39aad5e9-bd82-4adf-b2e8-c6ceebf55c81.png)
 
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caputchinefrobles&show_icons=true&theme=radical)
